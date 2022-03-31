@@ -33,30 +33,37 @@ article{
     border-top: 0px;
 }
 img#VSC{
+    float: left;
     box-shadow:  3px 5px 3px #999;
     border-radius: 20px;
 }
 img#sublime{
+    float: left;
     box-shadow:  3px 5px 3px #999;
     border-radius: 20px;
 }
 img#dream{
+    float: left;
     box-shadow:  3px 5px 3px #999;
     border-radius: 20px;
 }
 img#estruc{
+    float: left;
     border-radius: 20px;
 }
 img#lorem{
+    float: left;
     border-radius: 20px;
 }
 img#img{
+    float: left;
     border-radius: 20px;
 }
 img#dino{
+    float: left;
     border-radius: 20px;
 }
 img#enla{
-
+    float: left;
     border-radius: 20px;
 }
