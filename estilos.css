@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(17, 139, 253, 0.481);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 63px;
+    margin-right: 63px;    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: rgba(78, 128, 255, 0.597);
+    padding: 30px;
+}
+img#crear{
+    background-color: rgb(131, 179, 243);
+    float: right;
+    height: 100px;
+}
+img#html{
+    background-color: rgb(131, 179, 243);
+    float: right;
+    height: 100px;
+}
+nav{
+    margin: 2px;
+    padding: 20px;
+}
+article{
+    background-color: rgba(17, 139, 253, 0.481);
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+    border-top: 0px;
+}
+img#VSC{
+    box-shadow:  3px 5px 3px #999;
+    border-radius: 20px;
+}
+img#sublime{
+    box-shadow:  3px 5px 3px #999;
+    border-radius: 20px;
+}
+img#dream{
+    box-shadow:  3px 5px 3px #999;
+    border-radius: 20px;
+}
+img#estruc{
+    border-radius: 20px;
+}
+img#lorem{
+    border-radius: 20px;
+}
+img#img{
+    border-radius: 20px;
+}
+img#dino{
+    border-radius: 20px;
+}
+img#enla{
+
+    border-radius: 20px;
+}
